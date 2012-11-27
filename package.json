@@ -1,0 +1,20 @@
+{
+  "name": "mx",
+  "version": "0.0.1",
+  "author": "Enno Boland <eb@s01.de>",
+  "description": "Mongoose + Express = mx",
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gottox/node-mx.git"
+  },
+  "keywords": [
+  ],
+  "dependencies" : {
+    "bcrypt": "0.7.x"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
